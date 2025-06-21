@@ -99,7 +99,7 @@ Give admin role
 Click on submit
 Similarly create 4 acl for the following fields
 
-Activity 7: Create a Flow to Assign operations ticket to group
+Activity 9: Create a Flow to Assign operations ticket to group
 Open service now.
 Click on All  >> search for Flow Designer 
 Click on Flow Designer under Process Automation.
@@ -129,7 +129,7 @@ Click on Done.
 Click on Save to save the Flow.
 Click on Activate.
 
-Activity 9: Create a Flow to Assign operations ticket to Platform group
+Activity 10: Create a Flow to Assign operations ticket to Platform group
 Open service now.
 Click on All  >> search for Flow Designer 
 Click on Flow Designer under Process Automation.
